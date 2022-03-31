@@ -23,6 +23,7 @@
 ## Support
 
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/gtepanosyan)
-
+- 👾 [Dev](https://dev.to/gtepanosyan)
+- 🕳 [Stack Over Flow](https://stackoverflow.com/users/17463348/garik-tepanosyan)
 <br />
 <br />
