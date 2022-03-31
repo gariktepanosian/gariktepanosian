@@ -22,7 +22,7 @@
 
 ## Support
 
-- ☕ [BuyMeACoffee](https://www.buymeacoffee.com/gtepanosyan)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/gtepanosyan)
 
 <br />
 <br />
