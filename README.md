@@ -1,10 +1,6 @@
-# Hi there, I'm Garik-(https://github.com/gtepanosyan)Github 👋 
-
----
+# Hi there, I'm Garik 👋 
 
 ## I am studying Java Programming at EPAM Systems
-
----
 
 - 📫 How to reach me (https://gmail.com)gtepanosyan@gmail.com
 - 😻 Check out my [NFT](https://opensea.io/gtepanosyan)
