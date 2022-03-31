@@ -18,5 +18,11 @@
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/gtepanosyan#gh-light-mode-only)
 
+---
+
+## Support
+
+https://www.buymeacoffee.com/gtepanosyan
+
 <br />
 <br />
