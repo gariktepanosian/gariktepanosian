@@ -2,7 +2,7 @@
 
 ## I am studying Java Programming at EPAM Systems
 
-- 📫 How to reach me (https://gmail.com)gtepanosyan@gmail.com
+- 📫 How to reach me gtepanosyan@gmail.com
 - 😻 Check out my [NFT](https://opensea.io/gtepanosyan)
 
 ---
