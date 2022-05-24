@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/gariktepanosian#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/gtepanosyan#gh-light-mode-only)
+[![website](./img/github-light.svg)](https://github.com/gariktepanosyan#gh-light-mode-only)
 
 ---
 
