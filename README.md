@@ -1,6 +1,6 @@
-# Hi there, I'm Garik 👋 
+#  I'm Garik 
 
-## I am studying Java Programming at EPAM Systems
+## I'm studying Java Programming at EPAM Systems
 
 - 📫 gtepanosyan@gmail.com
 ---
