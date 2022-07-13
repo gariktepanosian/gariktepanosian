@@ -2,7 +2,7 @@
 
 ## I'm studying Java Programming at EPAM Systems
 
-- 📫 gtepanosyan@gmail.com
+- 📫 gariktepanosian@gmail.com
 ---
 ### Connect:
 
