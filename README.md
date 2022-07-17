@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 [![Website](./img/stackoverflow-svgrepo-com.svg)](https://stackoverflow.com/users/17463348/garik-tepanosyan)
 &nbsp;&nbsp;
-[![Website](./img/linktree-ligth.svg)](https://linktr.ee/gariktepanosian)
+[![Website](./img/icons8-linktree.svg)](https://linktr.ee/gariktepanosian)
 ---
 
 <br />
