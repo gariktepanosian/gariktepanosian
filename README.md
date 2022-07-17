@@ -9,11 +9,11 @@
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/gariktepanosyan#gh-light-mode-only)
 &nbsp;&nbsp;
-[Coffee](https://www.buymeacoffee.com/gtepanosyan)
+[![Website](./img/buycoffee-light.svg)](https://www.buymeacoffee.com/gariktepanosian)
 &nbsp;&nbsp;
-[Dev](https://dev.to/gtepanosyan)
+[![Website](./img/dev-light.svg)](https://dev.to/gariktepanosian)
 &nbsp;&nbsp;
-[StackOverFlow](https://stackoverflow.com/users/17463348/garik-tepanosyan)
+[![Website](./img/stackoverflow-light.svg)](https://stackoverflow.com/users/17463348/garik-tepanosyan)
 ---
 <br />
 <br />
