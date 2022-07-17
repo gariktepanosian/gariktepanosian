@@ -10,9 +10,6 @@
 [![website](./img/github-light.svg)](https://github.com/gariktepanosyan#gh-light-mode-only)
 &nbsp;&nbsp;
 [![Website](./img/stackoverflow-svgrepo-com.svg)](https://stackoverflow.com/users/17463348/garik-tepanosyan)
-&nbsp;&nbsp;
-[![Website](./img/dev-ligth.svg)](https://dev.to/gariktepanosian)
-
 ---
 <br />
 <br />
