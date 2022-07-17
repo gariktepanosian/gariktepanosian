@@ -1,7 +1,3 @@
-#  I'm Garik 
-
-## I'm studying Java Programming at EPAM Systems
-
 - 📫 gariktepanosian@gmail.com
 ---
 &nbsp;&nbsp;
