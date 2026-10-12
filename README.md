@@ -22,23 +22,6 @@
 
 ---
 
-<!-- OPTION B: icon-only links, change the hex colour as you like (ffffff = white) -->
-<div align="center">
-
-<a href="https://linkedin.com/in/gariktepanosyan"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="32" height="32" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="https://facebook.com/gariktepanosian"><img src="https://cdn.simpleicons.org/facebook/ffffff" width="32" height="32" alt="Facebook"/></a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/gariktepanosian"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" height="32" alt="Instagram"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/gariktepanosyan"><img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub"/></a>
-&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/17463348/garik-tepanosyan"><img src="https://cdn.simpleicons.org/stackoverflow/ffffff" width="32" height="32" alt="Stack Overflow"/></a>
-&nbsp;&nbsp;
-<a href="https://linktr.ee/gariktepanosian"><img src="https://cdn.simpleicons.org/linktree/ffffff" width="32" height="32" alt="Linktree"/></a>
-
-</div>
-
 > 💡 White icons are invisible on GitHub's light theme. Use `0A66C2` or `181717` instead, or keep Option A, which works in both themes.
 
 ---
